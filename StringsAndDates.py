@@ -1,4 +1,4 @@
-  # Zachary Duncan, CIS261, WK1Lab1 - Strings and Dates
+ # Zachary Duncan, CIS261, WK1Lab1 - Strings and Dates
 
 user_date = input("Enter date: ")
 while user_date != '-1':
