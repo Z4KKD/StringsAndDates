@@ -1,4 +1,4 @@
-#Strings and Dates
+# Strings and Dates
 
 This Python script prompts the user to enter a date in the format "Month Day, Year" and converts it to the format "MM/DD/YYYY".
 
